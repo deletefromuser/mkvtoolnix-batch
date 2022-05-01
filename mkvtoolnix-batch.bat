@@ -1,5 +1,6 @@
 @echo off
-set mkvmerge="D:\Programas\mkvtoolnix\mkvmerge.exe"
+@REM set mkvmerge="D:\Programas\mkvtoolnix\mkvmerge.exe"
+set mkvmerge="C:\Software\mkvtoolnix\mkvmerge.exe"
 if not exist "options.json" (
     echo Options file 'options.json' not found. Exiting.
     pause>nul
