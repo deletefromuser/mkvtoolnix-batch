@@ -22,5 +22,8 @@ Windows Batch script to automate batch processing using mkvtoolnix.
 10. Go grab yourself a cup of coffee and wait for the multiplexing process to complete. Processed MKV files will appear inside the `mkvmerge_out` directory.
 11. Profit.
 
+## bash implement
+- [Batch muxing with the GUI](https://gitlab.com/mbunkus/mkvtoolnix/-/wikis/Batch-muxing-with-the-GUI)
+
 ## License
 Code licensed under GNU General Public License v3.0.
